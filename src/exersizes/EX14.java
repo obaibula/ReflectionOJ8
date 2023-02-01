@@ -12,20 +12,24 @@ class Part implements Supplier<Part> {
     @Override public String toString() {
         return getClass().getSimpleName();
     }
-    static List<Supplier<? extends Part>> prototypes =
+    static List<Class<? extends Part>> prototypes =
             Arrays.asList(
-                    new FuelFilter(),
-                    new AirFilter(),
-                    new CabinAirFilter(),
-                    new OilFilter(),
-                    new FanBelt(),
-                    new PowerSteeringBelt(),
-                    new GeneratorBelt()
+                    FuelFilter.class,
+                    AirFilter.class,
+                    CabinAirFilter.class,
+                    OilFilter.class,
+                    FanBelt.class,
+                    PowerSteeringBelt.class,
+                    GeneratorBelt.class
             );
     private static Random rand = new Random(47);
     @Override public Part get() {
         int n = rand.nextInt(prototypes.size());
-        return prototypes.get(n).get();
+        try {
+            return prototypes.get(n).newInstance();
+        } catch (InstantiationException | IllegalAccessException e) {
+            throw new RuntimeException(e);
+        }
     }
 }
 

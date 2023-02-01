@@ -1,66 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00b65c9d-c0e1-4055-bf36-ce935ede5c2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exersizes/EX12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersizes/EX14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/Americano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/Breve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/Cappuccino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/CoffeeSupplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/Latte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/ArrayShow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/BasicSupplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/CollectionMethodDifferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/ConvertTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/CountMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/CountingIntegerList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Countries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Enums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/FillMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/HTMLColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/MouseClick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Nap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Null.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/OSExecute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/OSExecuteException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/ProcessFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Rand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Repeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/RmDir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Suppliers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/TestRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/TimedAbort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Timer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/TypeCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/AtUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/ClassNameFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/TestObjectCleanup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/TestObjectCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/TestProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Gerbil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/registeredfactories/EX13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/registeredfactories/RegisteredFactories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theclassobject/PetCounter3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theclassobject/PetCounter4.java" afterDir="false" />
+    <list default="true" id="00b65c9d-c0e1-4055-bf36-ce935ede5c2b" name="Changes" comment="break">
+      <change afterPath="$PROJECT_DIR$/src/exersizes/EX15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/pets/ForNamePetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/pets/ForNamePetCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/pets/PetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/pets/PetCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/theclassobject/PetCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/theclassobject/PetCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exersizes/EX14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exersizes/EX14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +54,29 @@
       <option name="presentableId" value="Default" />
       <updated>1674804240020</updated>
     </task>
+    <task id="LOCAL-00001" summary="break">
+      <created>1675229925803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675229925803</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="break" />
+    <option name="LAST_COMMIT_MESSAGE" value="break" />
   </component>
 </project>
