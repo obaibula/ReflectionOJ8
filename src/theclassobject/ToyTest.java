@@ -1,5 +1,7 @@
 package theclassobject;
 
+/*Exercise 19: (4) In ToyTest.java, use reflection to create a Toy object using the nondefault constructor. */
+
 interface HasBatteries {}
 interface Waterproof {}
 interface Shoots {}
