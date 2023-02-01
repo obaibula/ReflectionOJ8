@@ -2,51 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00b65c9d-c0e1-4055-bf36-ce935ede5c2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/Arm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/BallJoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/Body.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/Creator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/FlyWheel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/ForNamePartCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/HeadLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/Individual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/Part.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/PartCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/PartCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/Ring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/SilentBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/Spring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/Suspension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypetanalogue/TailLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/SweetShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Creator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Cymric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/EgyptianMau.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/ForNamePetCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Hamster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Individual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Manx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Mutt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/PetCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Pug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Rat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Rodent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theclassobject/BoundedClassReferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theclassobject/DynamicSupplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theclassobject/GenericToyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theclassobject/PetCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theclassobject/ToyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theclassobject/WildcardClassReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/EX12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/EX14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/Americano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/Breve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/Cappuccino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/CoffeeSupplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/Latte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exersizes/coffee/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/ArrayShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/BasicSupplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/CollectionMethodDifferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/ConvertTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/CountMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/CountingIntegerList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/FillMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/HTMLColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/MouseClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Nap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Null.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/OSExecute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/OSExecuteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/ProcessFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Rand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Repeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/RmDir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Suppliers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/TestRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/TimedAbort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/TypeCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/AtUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/ClassNameFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/TestObjectCleanup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/TestObjectCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/TestProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/pets/Gerbil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/registeredfactories/EX13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/registeredfactories/RegisteredFactories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theclassobject/PetCounter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theclassobject/PetCounter4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/theclassobject/ClassInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/theclassobject/ClassInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/pets/ForNamePetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/pets/ForNamePetCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/pets/PetCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/pets/PetCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/theclassobject/PetCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/theclassobject/PetCounter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +77,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2KtqU2gHIhYu1DNLYL2qoZ3A9Bm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -74,11 +91,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/kuznetsov.aa.HITED1UA/IdeaProjects/ReflectionOJ8/src"
+    "last_opened_file_path": "/home/oleh/IdeaProjects/ReflectionOJ8/src/exersizes"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/exersizes" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="C:\Users\kuznetsov.aa.HITED1UA\IdeaProjects\ReflectionOJ8\src" />
     </key>
   </component>

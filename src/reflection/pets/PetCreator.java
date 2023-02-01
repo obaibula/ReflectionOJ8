@@ -15,7 +15,7 @@ public class PetCreator extends Creator {
       Pet.class, Dog.class, Cat.class, Rodent.class,
       Mutt.class, Pug.class, EgyptianMau.class,
       Manx.class, Cymric.class, Rat.class,
-      Mouse.class, Hamster.class));
+      Mouse.class, Hamster.class, Gerbil.class));
   // Types for random creation:
   private static final
   List<Class<? extends Pet>> TYPES =

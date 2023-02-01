@@ -41,6 +41,8 @@ public class PetCounter {
             counter.count("Mouse");
         if(pet instanceof Hamster)
             counter.count("Hamster");
+        if(pet instanceof Gerbil)
+            counter.count("Gerbil");
     }
     public void count(Creator creator) {
         creator.stream().limit(20)
